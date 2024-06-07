@@ -127,7 +127,7 @@
         Base {
             label = "Base";
             bindings = <
-&hm EXCLAMATION Q  &hm AT_SIGN W  &hm HASH E     &hm DOLLAR R    &hm PERCENT T  &as CARET Y         &hm AMPERSAND U      &hm ASTERISK I          &hm LEFT_PARENTHESIS O  &hm P RIGHT_PARENTHESIS
+&hm EXCLAMATION Q  &hm AT_SIGN W  &hm HASH E     &hm DOLLAR R    &hm PERCENT T  &as CARET Y         &hm AMPERSAND U      &hm ASTERISK I          &hm LEFT_PARENTHESIS O  &hm RIGHT_PARENTHESIS P
 &hm LC(A) A        &hm MINUS S    &hm EQUAL D    &hm HOME F      &kp ENTER      &hm LEFT_BRACKET G  &hm RIGHT_BRACKET H  &hm NON_US_BACKSLASH J  &hm SEMICOLON K         &hm APOSTROPHE L
 &hm LC(Z) Z        &hm LC(X) X    &hm LC(C) C    &mkp LCLK       &mkp RCLK      &hm LC(V) V         &kp B                &hm COMMA N             &hm PERIOD M            &as QUESTION SLASH
                                   &hm GRAVE ESC  &kp LEFT_SHIFT  &ltq 1 SPACE                       &hm CAPSLOCK TAB     &kp BACKSPACE
